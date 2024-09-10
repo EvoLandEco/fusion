@@ -1,0 +1,5 @@
+# ninja log v5
+12	73	7475086957867620	CMakeFiles/fusion.dir/fusion/event.cpp.obj	a8368e43bb1b256b
+8	75	7475086957867620	CMakeFiles/fusion.dir/fusion/isolation.cpp.obj	251c6f5c0579476f
+22	83	7475086957977619	CMakeFiles/fusion.dir/fusion/unit_population.cpp.obj	caed2c56911d9738
+27	1002	7475086967160274	CMakeFiles/fusion.dir/fusion/observer.cpp.obj	9a1d1d8d925383bb

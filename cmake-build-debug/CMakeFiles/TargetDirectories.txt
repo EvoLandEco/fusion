@@ -1,0 +1,3 @@
+C:/Source/fusion/cmake-build-debug/CMakeFiles/fusion.dir
+C:/Source/fusion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Source/fusion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
